@@ -24,7 +24,7 @@ CPU is a constraining factor
 
 ## Level 2
 
-| Time (minutes) | DPS | Query time | QPS | Size (GB)
+Setup | Time (minutes) | DPS | Query time | QPS | Size (GB)
 --- | --- | --- | --- | --- | ---
 1 CPU, 2GB RAM | 4.79 | 5.74 | ~15 | 115 | 1.14
 2 CPU, 4GB RAM | 2.46 | 9.74 | ~9 | 189 | 1.18
@@ -37,7 +37,7 @@ At least for my tests, it was still CPU 😅
 
 ### Using indexing and querying at the same time
 
-| Time (minutes) | DPS | Query time | QPS | Size (GB)
+Setup | Time (minutes) | DPS | Query time | QPS | Size (GB)
 --- | --- | --- | --- | --- | ---
 4 CPU, 8GB RAM | 2.93 | 7.88 | ~9 | 225 | 1.24
 
